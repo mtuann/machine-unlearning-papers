@@ -6,6 +6,7 @@
 # Machine Unlearning Papers
 This Github repository contains a list of Federated Learning papers that are updated until **October 05, 2024**.
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ ML conferences and journals.
+- [Shinyapps's website](https://mtuann.shinyapps.io/research-papers/) is available for a better reading experience.
 
 ---
 # Other Topics
