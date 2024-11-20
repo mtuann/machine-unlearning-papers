@@ -5,7 +5,7 @@
 
 
 ## Machine Unlearning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **November 18, 2024**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **November 20, 2024**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -42,9 +42,9 @@ Due to GitHub repository limitations, this section includes only those papers th
 |2|Evaluating Deep Unlearning in Large Language Models|Ruihan Wu, Chhavi Yadav, Russ Salakhutdinov, Kamalika Chaudhuri|2024-10-19|arXiv …, 2024|https://github.com/wrh14/deep_unlearning|http://arxiv.org/abs/2410.15153v1|
 |3|Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts|Hongcheng Gao, Tianyu Pang, Chao Du, Taihang Hu, Zhijie Deng, Min Lin|2024-10-17|arXiv …, 2024|https://github.com/sail-sg/Meta-Unlearning|http://arxiv.org/abs/2410.12777v1|
 |4|Efficient Federated Unlearning under Plausible Deniability|Ayush K. Varshney, Vicenç Torra|2024-10-13|arXiv:2410.09947, 2024|https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability|http://arxiv.org/abs/2410.09947v1|
-|5|A Closer Look at Machine Unlearning for Large Language Models|Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang, Min Lin|2024-10-10|arXiv|https://github.com/sail-sg/closer-look-LLM-unlearning|http://arxiv.org/abs/2410.08109v1|
+|5|A Closer Look at Machine Unlearning for Large Language Models|Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang, Min Lin|2024-10-10|arXiv|https://github.com/sail-sg/closer-look-LLM-unlearning|https://doi.org/10.48550/arXiv.2410.08109|
 |6|Dissecting Fine-Tuning Unlearning in Large Language Models|Yihuai Hong, Yuelin Zou, Lijie Hu, Ziqian Zeng, Di Wang, Haiqin Yang|2024-10-09|EMNLP|https://github.com/yihuaihong/Dissecting-FT-Unlearning|https://aclanthology.org/2024.emnlp-main.228|
-|7|Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning|Chongyu Fan, Jiancheng Liu, Licong Lin, Jinghan Jia, Ruiqi Zhang, Song Mei, Sijia Liu|2024-10-09|arXiv|https://github.com/OPTML-Group/Unlearn-Simple|http://arxiv.org/abs/2410.07163v1|
+|7|Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning|Chongyu Fan, Jiancheng Liu, Licong Lin, Jinghan Jia, Ruiqi Zhang, Song Mei, Sijia Liu|2024-10-09|arXiv|https://github.com/OPTML-Group/Unlearn-Simple|https://doi.org/10.48550/arXiv.2410.07163|
 |8|A Probabilistic Perspective on Unlearning and Alignment for Large Language Models|Yan Scholten, Stephan Günnemann, Leo Schwinn|2024-10-04|arXiv|https://github.com/yascho/probabilistic-unlearning|https://doi.org/10.48550/arXiv.2410.03523|
 |9|Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need|Xianlong Wang, Minghui Li, Wei Liu, Hangtao Zhang, Shengshan Hu, Yechao Zhang, Ziqi Zhou, Hai Jin|2024-10-04|arXiv|https://github.com/CGCL-codes/UnlearnablePC|https://doi.org/10.48550/arXiv.2410.03644|
 |10|Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning|Xinwei Liu, Xiaojun Jia, Yuan Xun, Siyuan Liang, Xiaochun Cao|2024-10|MM '24: Proceedings of the 32nd ACM International Conference on Multimedia|https://github.com/thinwayliu/Multimodal-Unlearnable-Examples|https://dl.acm.org/doi/10.1145/3664647.3680708|
