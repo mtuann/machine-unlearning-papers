@@ -5,7 +5,7 @@
 
 
 ## Machine Unlearning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **November 29, 2024**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **December 03, 2024**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -42,9 +42,9 @@ Due to GitHub repository limitations, this section includes only those papers th
 |2|Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods|Jai Doshi, Asa Cooper Stickland|2024-11-18|arXiv:2411.12103, 2024|https://github.com/JaiDoshi/Knowledge-Erasure|http://arxiv.org/abs/2411.12103v2|
 |3|LoRA Unlearns More and Retains More (Student Abstract)|Atharv Mittal|2024-11-16|arXiv:2411.11907, 2024|https://github.com/vlgiitr/LoRA-Unlearn|http://arxiv.org/abs/2411.11907v1|
 |4|Identify Backdoored Model in Federated Learning via Individual Unlearning|Jiahao Xu, Zikai Zhang, Rui Hu|2024-11-02|arXiv:2411.01040, 2024|https://github.com/JiiahaoXU/MASA|http://arxiv.org/abs/2411.01040v1|
-|5|Evaluating Deep Unlearning in Large Language Models|Ruihan Wu, Chhavi Yadav, Russ Salakhutdinov, Kamalika Chaudhuri|2024-10-19|arXiv …, 2024|https://github.com/wrh14/deep_unlearning|http://arxiv.org/abs/2410.15153v1|
-|6|Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts|Hongcheng Gao, Tianyu Pang, Chao Du, Taihang Hu, Zhijie Deng, Min Lin|2024-10-17|arXiv …, 2024|https://github.com/sail-sg/Meta-Unlearning|http://arxiv.org/abs/2410.12777v1|
-|7|Efficient Federated Unlearning under Plausible Deniability|Ayush K. Varshney, Vicenç Torra|2024-10-13|arXiv:2410.09947, 2024|https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability|http://arxiv.org/abs/2410.09947v1|
+|5|Evaluating Deep Unlearning in Large Language Models|Ruihan Wu, Chhavi Yadav, Russ Salakhutdinov, Kamalika Chaudhuri|2024-10-19|arXiv|https://github.com/wrh14/deep_unlearning|https://doi.org/10.48550/arXiv.2410.15153|
+|6|Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts|Hongcheng Gao, Tianyu Pang, Chao Du, Taihang Hu, Zhijie Deng, Min Lin|2024-10-17|arXiv|https://github.com/sail-sg/Meta-Unlearning|https://doi.org/10.48550/arXiv.2410.12777|
+|7|Efficient Federated Unlearning under Plausible Deniability|Ayush K. Varshney, Vicenç Torra|2024-10-13|arXiv|https://github.com/Ayush-Umu/Federated-Unlearning-under-Plausible-Deniability|https://doi.org/10.48550/arXiv.2410.09947|
 |8|A Closer Look at Machine Unlearning for Large Language Models|Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang, Min Lin|2024-10-10|arXiv|https://github.com/sail-sg/closer-look-LLM-unlearning|https://doi.org/10.48550/arXiv.2410.08109|
 |9|Dissecting Fine-Tuning Unlearning in Large Language Models|Yihuai Hong, Yuelin Zou, Lijie Hu, Ziqian Zeng, Di Wang, Haiqin Yang|2024-10-09|EMNLP|https://github.com/yihuaihong/Dissecting-FT-Unlearning|https://aclanthology.org/2024.emnlp-main.228|
 |10|Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning|Chongyu Fan, Jiancheng Liu, Licong Lin, Jinghan Jia, Ruiqi Zhang, Song Mei, Sijia Liu|2024-10-09|arXiv|https://github.com/OPTML-Group/Unlearn-Simple|https://doi.org/10.48550/arXiv.2410.07163|
