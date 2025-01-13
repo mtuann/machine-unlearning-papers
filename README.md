@@ -5,7 +5,7 @@
 
 
 ## Machine Unlearning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **January 09, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **January 13, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -38,7 +38,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 |No.|Title|Authors|Publish Date|Venue|Code|URL|
 |---|---|---|---|---|---|---|
-|1|Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models|Peihai Jiang, Xixiang Lyu, Yige Li, Jing Ma|2025-01-05|arXiv|https://github.com/XDJPH/BTU|http://arxiv.org/abs/2501.03272v1|
+|1|Backdoor Token Unlearning: Exposing and Defending Backdoors in Pretrained Language Models|Peihai Jiang, Xixiang Lyu, Yige Li, Jing Ma|2025-01-06|arXiv:2501.03272, 2025|https://github.com/XDJPH/BTU|http://arxiv.org/abs/2501.03272v1|
 |2|Towards efficient and effective unlearning of large language models for recommendation|Hangyu Wang, Jianghao Lin, Bo Chen, Yang Yang, Ruiming Tang, Weinan Zhang, Yong Yu|2025|Frontiers Comput. Sci.|https://github.com/justarter/E2URec|https://doi.org/10.1007/s11704-024-40044-2|
 |3|MU-Bench: A Multitask Multimodal Benchmark for Machine Unlearning|Jiali Cheng, Hadi Amiri|2024-12-24|arXiv|https://clu-uml.github.io/MU-Bench-Project-Page/|https://doi.org/10.48550/arXiv.2406.14796|
 |4|Forget Vectors at Play: Universal Input Perturbations Driving Machine Unlearning in Image Classification|Changchang Sun, Ren Wang, Yihua Zhang, Jinghan Jia, Jiancheng Liu, Gaowen Liu, Sijia Liu, Yan Yan|2024-12-21|arXiv|https://github.com/Changchangsun/Forget-Vector|http://arxiv.org/abs/2412.16780v1|
