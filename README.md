@@ -5,7 +5,7 @@
 
 
 ## Machine Unlearning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **March 13, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **March 17, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -42,7 +42,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 |2|Forgetting Any Data at Any Time: A Theoretically Certified Unlearning Framework for Vertical Federated Learning|Linian Wang, Leye Wang|2025-02-26|arXiv:2502.17081, 2025|https://github.com/wangln19/vertical-federated-unlearning|http://arxiv.org/abs/2502.17081v1|
 |3|UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning|Vaidehi Patil, Elias Stengel-Eskin, Mohit Bansal|2025-02-21|arXiv:2502.15082, 2025|https://github.com/Vaidehi99/UPCORE|http://arxiv.org/abs/2502.15082v1|
 |4|ReLearn: Unlearning via Learning for Large Language Models|Haoming Xu, Ningyuan Zhao, Liming Yang, Sendong Zhao, Shumin Deng, Mengru Wang, Bryan Hooi, Nay Oo, Huajun Chen, Ningyu Zhang|2025-02-17|arXiv …, 2025|https://github.com/zjunlp/unlearn|http://arxiv.org/abs/2502.11190v1|
-|5|Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond|Chongyu Fan, Jinghan Jia, Yihua Zhang, Anil Ramakrishna, Mingyi Hong, Sijia Liu|2025-02-08|arXiv …, 2025|https://github.com/OPTML-Group/Unlearn-Smooth|http://arxiv.org/abs/2502.05374v1|
+|5|Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond|Chongyu Fan, Jinghan Jia, Yihua Zhang, Anil Ramakrishna, Mingyi Hong, Sijia Liu|2025-02-08|arXiv|https://github.com/OPTML-Group/Unlearn-Smooth|https://doi.org/10.48550/arXiv.2502.05374|
 |6|LMEraser: Large Model Unlearning through Adaptive Prompt Tuning|Jie Xu, Zihan Wu, Cong Wang, Xiaohua Jia|2025-02-08|arXiv|https://github.com/lmeraser/lmeraser|https://doi.org/10.48550/arXiv.2404.11056|
 |7|Tool Unlearning for Tool-Augmented LLMs|Jiali Cheng, Hadi Amiri|2025-02-05|arXiv|https://clu-uml.github.io/MU-Bench-Project-Page/|https://doi.org/10.48550/arXiv.2502.01083|
 |8|SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders|Bartosz Cywinski, Kamil Deja|2025-01-30|arXiv|https://github.com/cywinski/SAeUron|https://doi.org/10.48550/arXiv.2501.18052|
