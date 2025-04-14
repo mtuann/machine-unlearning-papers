@@ -5,7 +5,7 @@
 
 
 ## Machine Unlearning Papers
-This GitHub repository contains an updated list of Federated Learning papers as of **April 08, 2025**. 
+This GitHub repository contains an updated list of Federated Learning papers as of **April 14, 2025**. 
 
 - The resources are collected from various sources, including arXiv, NeurIPS, ICML, ICLR, ACL, EMNLP, AAAI, IJCAI, KDD, CVPR, ICCV, ECCV, NIPS, IEEE, ACM, Springer, ScienceDirect, Wiley, Nature, Science, and other top AI/ML conferences and journals.
 - For a better reading experience, visit the [Shinyapps website](https://mtuann.shinyapps.io/research-papers/).
@@ -43,7 +43,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 |3|Effective Skill Unlearning through Intervention and Abstention|Yongce Li, Chung-En Sun, Tsui-Wei Weng|2025-03-29|arXiv:2503.21730, 2025|https://github.com/Trustworthy-ML-Lab/effective_skill_unlearning|http://arxiv.org/abs/2503.21730v1|
 |4|LoTUS: Large-Scale Machine Unlearning with a Taste of Uncertainty|Christoforos N. Spartalis, Theodoros Semertzidis, Efstratios Gavves, Petros Daras|2025-03-26|arXiv …, 2025|https://github.com/cspartalis/LoTUS|http://arxiv.org/abs/2503.18314v2|
 |5|Machine Unlearning in Hyperbolic vs. Euclidean Multimodal Contrastive Learning: Adapting Alignment Calibration to MERU|Àlex Pujol Vidal, Sergio Escalera, Kamal Nasrollahi, Thomas B. Moeslund|2025-03-20|arXiv …, 2025|https://github.com/alex-pv01/HAC|http://arxiv.org/abs/2503.15166v1|
-|6|Group-robust Machine Unlearning|Thomas De Min, Subhankar Roy, Stéphane Lathuilière, Elisa Ricci, Massimiliano Mancini|2025-03-14|arXiv …, 2025|https://github.com/tdemin16/group-robust_machine_unlearning|http://arxiv.org/abs/2503.09330v1|
+|6|Group-robust Machine Unlearning|Thomas De Min, Subhankar Roy, Stéphane Lathuilière, Elisa Ricci, Massimiliano Mancini|2025-03-14|arXiv|https://github.com/tdemin16/group-robust_machine_unlearning|https://doi.org/10.48550/arXiv.2503.09330|
 |7|Forgetting Any Data at Any Time: A Theoretically Certified Unlearning Framework for Vertical Federated Learning|Linian Wang, Leye Wang|2025-02-26|arXiv|https://github.com/wangln19/vertical-federated-unlearning|https://doi.org/10.48550/arXiv.2502.17081|
 |8|UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning|Vaidehi Patil, Elias Stengel-Eskin, Mohit Bansal|2025-02-21|arXiv|https://github.com/Vaidehi99/UPCORE|https://doi.org/10.48550/arXiv.2502.15082|
 |9|ReLearn: Unlearning via Learning for Large Language Models|Haoming Xu, Ningyuan Zhao, Liming Yang, Sendong Zhao, Shumin Deng, Mengru Wang, Bryan Hooi, Nay Oo, Huajun Chen, Ningyu Zhang|2025-02-17|arXiv|https://github.com/zjunlp/unlearn|https://doi.org/10.48550/arXiv.2502.11190|
