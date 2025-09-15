@@ -7,7 +7,7 @@
 6. [Support](#support)
 
 ## Machine Unlearning Papers
-This GitHub repository contains an updated list of Machine Unlearning papers as of **September 08, 2025**. 
+This GitHub repository contains an updated list of Machine Unlearning papers as of **September 14, 2025**. 
 
 ### Overview
 - **Total Papers**: Updated regularly with latest publications
@@ -74,15 +74,15 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 <!-- 
 ### Summary Statistics
-- **Total Papers in Dataset**: 2,338
+- **Total Papers in Dataset**: 2,361
 - **Papers with Available Code**: 160
 - **Code Availability Rate**: 6.8%
-- **Last Updated**: September 08, 2025
+- **Last Updated**: September 14, 2025
 
 ### Paper Statistics
-- **Total Papers**: 2338
-- **Papers with Code**: 2338
-- **Latest Update**: 2338
+- **Total Papers**: 2361
+- **Papers with Code**: 2361
+- **Latest Update**: 2361
 - **Coverage Period**: 2016 - Present -->
 
 ---
@@ -192,7 +192,7 @@ Your support helps maintain and improve:
 |65|To Forget or Not? Towards Practical Knowledge Unlearning for Large   Language Models|Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang|2024-07-01|OpenAlex|https://github.com/zjunlp/KnowUnDo.|https://doi.org/10.18653/v1/2024.findings-emnlp.82|
 |66|Data Attribution for Text-to-Image Models by Unlearning Synthesized   Images|Sheng-Yu Wang, Aaron Hertzmann, Alexei A. Efros, Jun-Yan Zhu, Richard Zhang|2024-06-13|NeurIPS|https://github.com/PeterWang512/AttributeByUnlearning|http://papers.nips.cc/paper_files/paper/2024/hash/07fbde96bee50f4e09303fd4f877c2f3-Abstract-Conference.html|
 |67|Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning   Framework from Logit Difference|Jiabao Ji, Yujian Liu, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang|2024-06-12|NeurIPS|https://github.com/UCSB-NLP-Chang/ULD.|http://papers.nips.cc/paper_files/paper/2024/hash/171291d8fed723c6dfc76330aa827ff8-Abstract-Conference.html|
-|68|MUC: Machine Unlearning for Contrastive Learning with Black-box   Evaluation|Yihan Wang, Yiwei Lu, Guojun Zhang, Franziska Boenisch, Adam Dziedzic, Yaoliang Yu, Xiao-Shan Gao|2024-06-01|arXiv|https://github.com/EhanW/Alignment-Calibration.|http://arxiv.org/abs/2406.03603v2|
+|68|MUC: Machine Unlearning for Contrastive Learning with Black-box   Evaluation|Yihan Wang, Yiwei Lu, Guojun Zhang, Franziska Boenisch, Adam Dziedzic, Yaoliang Yu, Xiao-Shan Gao|2024-06-01|Trans. Mach. Learn. Res.|https://github.com/EhanW/Alignment-Calibration.|https://openreview.net/forum?id=F9pjSDvuM9|
 |69|Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces|Yihuai Hong, Lei Yu, Haiqin Yang, Shauli Ravfogel, Mor Geva|2024-06-01|arXiv|https://github.com/yihuaihong/ConceptVectors.|https://doi.org/10.48550/arXiv.2406.11614|
 |70|Defensive Unlearning with Adversarial Training for Robust Concept   Erasure in Diffusion Models|Yimeng Zhang, Xin Chen, Jinghan Jia, Yihua Zhang, Chongyu Fan, Jiancheng Liu, Mingyi Hong, Ke Ding, Sijia Liu|2024-05-24|NeurIPS|https://github.com/OPTML-Group/AdvUnlearn|http://papers.nips.cc/paper_files/paper/2024/hash/40954ac18a457dd5f11145bae6454cdf-Abstract-Conference.html|
 |71|Unlearning during Learning: An Efficient Federated Machine Unlearning   Method|Hanlin Gu, Gongxi Zhu, Jie Zhang, Xinyuan Zhao, Yuxing Han, Lixin Fan, Qiang Yang|2024-05-24|OpenAlex|https://github.com/Liar-Mask/FedAU.|https://www.ijcai.org/proceedings/2024/446|
