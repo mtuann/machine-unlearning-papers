@@ -7,7 +7,7 @@
 6. [Support](#support)
 
 ## Machine Unlearning Papers
-This GitHub repository contains an updated list of Machine Unlearning papers as of **September 29, 2025**. 
+This GitHub repository contains an updated list of Machine Unlearning papers as of **October 06, 2025**. 
 
 ### Overview
 - **Total Papers**: Updated regularly with latest publications
@@ -74,15 +74,15 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 <!-- 
 ### Summary Statistics
-- **Total Papers in Dataset**: 2,402
+- **Total Papers in Dataset**: 2,413
 - **Papers with Available Code**: 161
 - **Code Availability Rate**: 6.7%
-- **Last Updated**: September 29, 2025
+- **Last Updated**: October 06, 2025
 
 ### Paper Statistics
-- **Total Papers**: 2402
-- **Papers with Code**: 2402
-- **Latest Update**: 2402
+- **Total Papers**: 2413
+- **Papers with Code**: 2413
+- **Latest Update**: 2413
 - **Coverage Period**: 2016 - Present -->
 
 ---
@@ -130,7 +130,7 @@ Your support helps maintain and improve:
 |3|Compressed Sensing with Deep Image Prior and Learned Regularization|Dave Van Veen, Ajil Jalal, Mahdi Soltanolkotabi, Eric Price, Sriram Vishwanath, Alexandros G. Dimakis||OpenReview|[![CatalyzeX](/images/catalyzex_icon.svg) 2 code implementations](https://www.catalyzex.com/paper/compressed-sensing-with-deep-image-prior-and/code)|https://openreview.net/pdf/960068efdade58de64b1b641bcccfdba53ac168b.pdf|
 |4|Leveraging Distribution Matching to Make Approximate Machine Unlearning   Faster|Junaid Iqbal Khan|2025-07-01|arXiv|https://github.com/algebraicdianuj/DC_Unlearning.|https://doi.org/10.48550/arXiv.2507.09786|
 |5|Image Can Bring Your Memory Back: A Novel Multi-Modal Guided Attack   against Image Generation Model Unlearning|Renyang Liu, Guanlin Li, Tianwei Zhang, See-Kiong Ng|2025-07-01|arXiv|https://github.com/ryliu68/RECALL|https://doi.org/10.48550/arXiv.2507.07139|
-|6|Forget-MI: Machine Unlearning for Forgetting Multimodal Information in   Healthcare Settings|Shahad Hardan, Darya Taratynova, Abdelmajid Essofi, Karthik Nandakumar, Mohammad Yaqub|2025-06-01|arXiv|https://github.com/BioMedIA-MBZUAI/Forget-MI.git|https://doi.org/10.48550/arXiv.2506.23145|
+|6|Forget-MI: Machine Unlearning for Forgetting Multimodal Information in   Healthcare Settings|Shahad Hardan, Darya Taratynova, Abdelmajid Essofi, Karthik Nandakumar, Mohammad Yaqub|2025-06-01|MICCAI|https://github.com/BioMedIA-MBZUAI/Forget-MI.git|https://doi.org/10.1007/978-3-032-04947-6_20|
 |7|Do LLMs Really Forget? Evaluating Unlearning with Knowledge Correlation   and Confidence Awareness|Rongzhe Wei, Peizhi Niu, Hans Hao-Hsun Hsu, Ruihan Wu, Haoteng Yin, Mohsen Ghassemi, Yifan Li, Vamsi K. Potluru, Eli Chi...|2025-06-01|arXiv|https://github.com/Graph-COM/Knowledge_Unlearning.git.|https://doi.org/10.48550/arXiv.2506.05735|
 |8|Unlearning Isn't Invisible: Detecting Unlearning Traces in LLMs from   Model Outputs|Yiwei Chen, Soumyadeep Pal, Yimeng Zhang, Qing Qu, Sijia Liu|2025-06-01|arXiv|https://github.com/OPTML-Group/Unlearn-Trace.|http://arxiv.org/abs/2506.14003v2|
 |9|Unlearning Sensitive Information in Multimodal LLMs: Benchmark and   Attack-Defense Evaluation|Vaidehi Patil, Yi-Lin Sung, Peter Hase, Jie Peng, Tianlong Chen, Mohit Bansal|2025-05-01|Trans. Mach. Learn. Res.|https://github.com/Vaidehi99/UnLOK-VQA|https://openreview.net/forum?id=YcnjgKbZQS|
