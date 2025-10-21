@@ -7,7 +7,7 @@
 6. [Support](#support)
 
 ## Machine Unlearning Papers
-This GitHub repository contains an updated list of Machine Unlearning papers as of **October 15, 2025**. 
+This GitHub repository contains an updated list of Machine Unlearning papers as of **October 21, 2025**. 
 
 ### Overview
 - **Total Papers**: Updated regularly with latest publications
@@ -74,15 +74,15 @@ Due to GitHub repository limitations, this section includes only those papers th
 
 <!-- 
 ### Summary Statistics
-- **Total Papers in Dataset**: 2,438
+- **Total Papers in Dataset**: 2,466
 - **Papers with Available Code**: 163
-- **Code Availability Rate**: 6.7%
-- **Last Updated**: October 15, 2025
+- **Code Availability Rate**: 6.6%
+- **Last Updated**: October 21, 2025
 
 ### Paper Statistics
-- **Total Papers**: 2438
-- **Papers with Code**: 2438
-- **Latest Update**: 2438
+- **Total Papers**: 2466
+- **Papers with Code**: 2466
+- **Latest Update**: 2466
 - **Coverage Period**: 2016 - Present -->
 
 ---
@@ -172,7 +172,7 @@ Your support helps maintain and improve:
 |45|Group-robust Machine Unlearning|Thomas De Min, Subhankar Roy, Stéphane Lathuilière, Elisa Ricci, Massimiliano Mancini|2025-01-01|arXiv|https://github.com/tdemin16/group-robust_machine_unlearning.|https://doi.org/10.48550/arXiv.2503.09330|
 |46|Forget Vectors at Play: Universal Input Perturbations Driving Machine   Unlearning in Image Classification|Changchang Sun, Ren Wang, Yihua Zhang, Jinghan Jia, Jiancheng Liu, Gaowen Liu, Sijia Liu, Yan Yan|2024-12-21|arXiv|https://github.com/Changchangsun/Forget-Vector.|https://doi.org/10.48550/arXiv.2412.16780|
 |47|A Cognac Shot To Forget Bad Memories: Corrective Unlearning for Graph   Neural Networks|Varshita Kolipaka, Akshit Sinha, Debangan Mishra, Sumit Kumar, Arvindh Arun, Shashwat Goel, Ponnurangam Kumaraguru|2024-12-01|arXiv|https://github.com/cognac-gnn-unlearning/corrective-unlearning-for-gnns|http://arxiv.org/abs/2412.00789v4|
-|48|Delta-Influence: Unlearning Poisons via Influence Functions|Wenjie Li, Jiawei Li, Christian Schroeder de Witt, Ameya Prabhu, Amartya Sanyal|2024-11-20|arXiv|https://github.com/andyisokay/delta-influence|https://doi.org/10.48550/arXiv.2411.13731|
+|48|Delta-Influence: Unlearning Poisons via Influence Functions|Wenjie Li, Jiawei Li, Pengcheng Zeng, Christian Schroeder de Witt, Ameya Prabhu, Amartya Sanyal|2024-11-20|arXiv|https://github.com/andyisokay/delta-influence|https://doi.org/10.48550/arXiv.2411.13731|
 |49|Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning   Methods|Jai Doshi, Asa Cooper Stickland|2024-11-18|arXiv|https://github.com/JaiDoshi/Knowledge-Erasure.|https://doi.org/10.48550/arXiv.2411.12103|
 |50|Learning from Convolution-based Unlearnable Datasets|Dohyun Kim, Pedro Sandoval-Segura|2024-11-01|arXiv|https://github.com/aseriesof-tubes/RSK|https://doi.org/10.48550/arXiv.2411.01742|
 |51|Identify Backdoored Model in Federated Learning via Individual   Unlearning|Jiahao Xu, Zikai Zhang, Rui Hu|2024-11-01|2022 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)|https://github.com/JiiahaoXU/MASA|https://doi.org/10.1109/WACV61041.2025.00773|
