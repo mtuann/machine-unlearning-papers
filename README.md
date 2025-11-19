@@ -7,7 +7,7 @@
 6. [Support](#support)
 
 ## Machine Unlearning Papers
-This GitHub repository contains an updated list of Machine Unlearning papers as of **October 21, 2025**. 
+This GitHub repository contains an updated list of Machine Unlearning papers as of **November 18, 2025**. 
 
 ### Overview
 - **Total Papers**: Updated regularly with latest publications
@@ -77,7 +77,7 @@ Due to GitHub repository limitations, this section includes only those papers th
 - **Total Papers in Dataset**: 2,466
 - **Papers with Available Code**: 163
 - **Code Availability Rate**: 6.6%
-- **Last Updated**: October 21, 2025
+- **Last Updated**: November 18, 2025
 
 ### Paper Statistics
 - **Total Papers**: 2466
