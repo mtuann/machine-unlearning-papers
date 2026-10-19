@@ -4,7 +4,7 @@ Removing the influence of specific data from trained models: exact and approxima
 
 **286 papers with code** out of 3,775 indexed · updated **October 19, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=unlearning)**
 
-**More lists:** [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [LLM Serving](https://github.com/mtuann/llm-serving-papers)
+**More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
 ## Newest 200 papers with code
 
