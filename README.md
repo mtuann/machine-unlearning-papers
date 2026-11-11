@@ -2,7 +2,7 @@
 
 Removing the influence of specific data from trained models: exact and approximate unlearning, evaluation and LLM unlearning.
 
-**318 papers with code** out of 3,862 indexed · updated **November 11, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=unlearning)**
+**319 papers with code** out of 3,873 indexed · updated **November 11, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=unlearning)**
 
 **More lists:** [LLM Serving](https://github.com/mtuann/llm-serving-papers) · [RAG](https://github.com/mtuann/rag-papers) · [Agent CDN](https://github.com/mtuann/agent-cdn-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
@@ -10,6 +10,7 @@ Removing the influence of specific data from trained models: exact and approxima
 
 | Date | Paper | Venue | Code |
 |---|---|---|---|
+| 2026-11-09 | [Spectral Unlearning: Transformer Structure-Preserving Updates for Language Models](https://doi.org/10.48550/arxiv.2611.11902)<br><sub>Sung Il Choi, Junhao Cai, Dohun Kim et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/unlearn-ml/spectral-unlearning?style=flat&label=%E2%98%85)](https://github.com/unlearn-ml/spectral-unlearning) |
 | 2026-10-27 | [Forget the Data, Keep the Capability: Switchable Unlearning for Retrieval](https://arxiv.org/abs/2610.36858)<br><sub>Jingong Chen, Kyle Gao, 李光元 Li Guangyuan et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/Jingong-Chen/MoME?style=flat&label=%E2%98%85)](https://github.com/Jingong-Chen/MoME) |
 | 2026-10-14 | [RA$^2$: Retain-Anchored Attraction Preserves Forget-Adjacent Utility in LLM Unlearning](https://arxiv.org/abs/2610.19385)<br><sub>Zinan Ling, Yang Xiao, Ruimeng Ye et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/ZacLing/retain_anchored_attraction?style=flat&label=%E2%98%85)](https://github.com/ZacLing/retain_anchored_attraction) |
 | 2026-10-09 | [KVeil: First-Place Solution to ECCV 2026 LifeGenIP Challenge on Unlearnable Videos](https://arxiv.org/abs/2610.13733)<br><sub>Boheng Li, Yueming Xing, Yiming Li et al.</sub> | arXiv | [![stars](https://img.shields.io/github/stars/AntigoneRandy/KVeil?style=flat&label=%E2%98%85)](https://github.com/AntigoneRandy/KVeil) |
@@ -209,7 +210,6 @@ Removing the influence of specific data from trained models: exact and approxima
 | 2024-10-12 | [Targeted Unlearning with Single Layer Unlearning Gradient](https://proceedings.mlr.press/v267/cai25f.html)<br><sub>Zikui Cai, Yaoteng Tan, M. Salman Asif</sub> | ICML 2025 | [![stars](https://img.shields.io/github/stars/CSIPlab/SLUG?style=flat&label=%E2%98%85)](https://github.com/CSIPlab/SLUG) |
 | 2024-10-04 | [A Probabilistic Perspective on Unlearning and Alignment for Large Language Models](https://openreview.net/forum?id=51WraMid8K)<br><sub>Yan Scholten, Stephan Günnemann, Leo Schwinn</sub> | ICLR 2025 | [![stars](https://img.shields.io/github/stars/yascho/probabilistic-unlearning?style=flat&label=%E2%98%85)](https://github.com/yascho/probabilistic-unlearning) |
 | 2024-10-03 | [Reward-Augmented Data Enhances Direct Preference Alignment of LLMs](https://openreview.net/forum?id=ruvzyT9HqJ)<br><sub>Shenao Zhang, Zhihan Liu, Boyi Liu et al.</sub> | ICLR 2025 Workshop Data Problems Poster | [![stars](https://img.shields.io/github/stars/shenao-zhang/reward-augmented-preference?style=flat&label=%E2%98%85)](https://github.com/shenao-zhang/reward-augmented-preference) |
-| 2024-10-03 | [Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts](https://openreview.net/forum?id=okRSNTMdFg)<br><sub>Hongcheng Gao, Tianyu Pang, Chao Du et al.</sub> | ICCV 2025 | [![stars](https://img.shields.io/github/stars/sail-sg/Meta-Unlearning?style=flat&label=%E2%98%85)](https://github.com/sail-sg/Meta-Unlearning) |
 
 ---
 
